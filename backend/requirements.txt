@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+ipykernel
+dotenv
+langgraph==0.3.31
+langchain-core==0.3.52
+langchain-tavily
+langchain-openai
+langchain-google-genai
+certifi
