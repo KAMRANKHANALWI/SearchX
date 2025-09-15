@@ -6,8 +6,8 @@
 
 <br/>  
 
-<div style="background: linear-gradient(135deg, #0f0f0f, #1c1c1c, #2a2a2a); padding: 30px; border-radius: 24px; box-shadow: 0 8px 35px rgba(0,0,0,0.35); display: inline-block;">  
-  <img src="https://github.com/user-attachments/assets/c19b4ace-68b4-4764-aad2-3045f5d5e2b5" alt="SearchX" width="80%" style="border-radius: 20px; box-shadow: 0 4px 25px rgba(0,0,0,0.3);" />  
+<div>  
+  <img src="https://github.com/user-attachments/assets/c19b4ace-68b4-4764-aad2-3045f5d5e2b5" alt="SearchX" style="border-radius: 20px; box-shadow: 0 4px 25px rgba(0,0,0,0.3);" />  
 </div>  
 
 <br/>  
