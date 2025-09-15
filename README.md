@@ -1,8 +1,20 @@
+<div align="center">  
+
 # 🔍 SearchX
 
 ***A Mini Perplexity Clone*** – *Crawl the Web in Seconds*
 
-SearchX is a modern AI-powered web search application that combines intelligent agents with real-time web crawling. It delivers **fast, accurate, and conversational answers** by orchestrating LLM reasoning with live web data.
+<br/>  
+
+<div style="background: linear-gradient(135deg, #0f0f0f, #1c1c1c, #2a2a2a); padding: 30px; border-radius: 24px; box-shadow: 0 8px 35px rgba(0,0,0,0.35); display: inline-block;">  
+  <img src="https://github.com/user-attachments/assets/c19b4ace-68b4-4764-aad2-3045f5d5e2b5" alt="SearchX" width="80%" style="border-radius: 20px; box-shadow: 0 4px 25px rgba(0,0,0,0.3);" />  
+</div>  
+
+<br/>  
+
+SearchX is a **modern AI-powered web search application** that combines intelligent agents with **real-time web crawling**. It delivers **fast, accurate, and conversational answers** by orchestrating LLM reasoning with live web data.
+
+</div>  
 
 ---
 
@@ -46,7 +58,7 @@ SearchX is a modern AI-powered web search application that combines intelligent 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/SearchX.git
+git clone https://github.com/KAMRANKHANALWI/SearchX.git
 cd SearchX
 ```
 
@@ -114,8 +126,9 @@ npm run dev
 ## 📸 How It Works
 
 <div align="center">
-  <img src="https://ik.imagekit.io/5wegcvcxp/Resume-searchX/agent-flow.png?updatedAt=1757276544319" alt="SearchX Agent Flow" width="400" />
+  <img src="https://github.com/user-attachments/assets/7bf2caf6-b04b-492c-a84c-fe9dbd1acae2" alt="SearchX Agent Flow" width="350" height="350" />
 </div>  
+
 
 1. **User Input** → Enter query in chat interface
 2. **AI Processing** → Google Gemini 2.0 Flash interprets query
